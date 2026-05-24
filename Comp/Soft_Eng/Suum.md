@@ -5,7 +5,13 @@ Application software
 Embedded software
 Legacy software
 
+maintainability
+extensibility
+flexibility
+portability
+usability
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzc4NTM3MzldfQ==
+eyJoaXN0b3J5IjpbLTExMjA3ODE4NjEsLTEwMzc4NTM3MzldfQ
+==
 -->

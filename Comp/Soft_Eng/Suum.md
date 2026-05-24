@@ -13,7 +13,12 @@ portability
 usability
 
 Dynamic quality
+performance
+throughput
+availability
+scalability
+security
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNzg3OTE4MiwtMTEyMDc4MTg2MSwtMT
-AzNzg1MzczOV19
+eyJoaXN0b3J5IjpbNTYzMTE3NTQyLC0xMTIwNzgxODYxLC0xMD
+M3ODUzNzM5XX0=
 -->

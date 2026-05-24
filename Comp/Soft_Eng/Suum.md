@@ -33,10 +33,10 @@ Requirement modeling
 	UML
 
 **Elaboration phase**
-HLD DLD
+HLD DLD LLD
 Software architecture
-
+DBUF
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMjgzMTAzOSw0MTEwNjA3Nyw1NjMxMT
+eyJoaXN0b3J5IjpbLTcyOTg4NzE4MCw0MTEwNjA3Nyw1NjMxMT
 c1NDIsLTExMjA3ODE4NjEsLTEwMzc4NTM3MzldfQ==
 -->

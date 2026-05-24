@@ -47,9 +47,11 @@ Crosscutting/ Umbrella activity
 
 Software Configuration Management (SCM)
 Software Configuration Item (SCI)
+Software Quality Management (SQM)
+Software Quality Assurance (SQA)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MzQwMTU1NywtNjM3MzUwNjkxLDQxMT
-A2MDc3LDU2MzExNzU0MiwtMTEyMDc4MTg2MSwtMTAzNzg1Mzcz
-OV19
+eyJoaXN0b3J5IjpbMTA4NjczMTgzNSwxMDYzNDAxNTU3LC02Mz
+czNTA2OTEsNDExMDYwNzcsNTYzMTE3NTQyLC0xMTIwNzgxODYx
+LC0xMDM3ODUzNzM5XX0=
 -->

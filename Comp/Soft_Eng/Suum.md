@@ -23,10 +23,14 @@ Process model
 Traditional process model
 Prescriptive process model
 Agile Process model
+	ASDE
+
+Process framework activi
+	
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4ODMyOTA5MSw0MTEwNjA3Nyw1NjMxMT
+eyJoaXN0b3J5IjpbLTg5ODUwNDUxNyw0MTEwNjA3Nyw1NjMxMT
 c1NDIsLTExMjA3ODE4NjEsLTEwMzc4NTM3MzldfQ==
 -->

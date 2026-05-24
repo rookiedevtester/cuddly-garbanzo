@@ -57,7 +57,9 @@ Software Testing
 Unit, Integration and Testing
 Code review
 Testing methods
-
+White box
+Black box
+Gray box
 
 Crosscutting/ Umbrella activity
 
@@ -69,7 +71,7 @@ Software Quality Assurance (SQA)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNzAwMDAxNCwxMDYzNDAxNTU3LC02Mz
-czNTA2OTEsNDExMDYwNzcsNTYzMTE3NTQyLC0xMTIwNzgxODYx
-LC0xMDM3ODUzNzM5XX0=
+eyJoaXN0b3J5IjpbMTM0MzE4MTU3OCwxNjM3MDAwMDE0LDEwNj
+M0MDE1NTcsLTYzNzM1MDY5MSw0MTEwNjA3Nyw1NjMxMTc1NDIs
+LTExMjA3ODE4NjEsLTEwMzc4NTM3MzldfQ==
 -->

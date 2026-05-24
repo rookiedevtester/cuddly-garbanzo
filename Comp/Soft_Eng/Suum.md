@@ -45,9 +45,11 @@ Code review
 
 Crosscutting/ Umbrella activity
 
-Software configuration 
+Software Configuration Management (SCM)
+Software Configuration Item (SCI)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkyMTcxNDY0LC02MzczNTA2OTEsNDExMD
-YwNzcsNTYzMTE3NTQyLC0xMTIwNzgxODYxLC0xMDM3ODUzNzM5
-XX0=
+eyJoaXN0b3J5IjpbMTA2MzQwMTU1NywtNjM3MzUwNjkxLDQxMT
+A2MDc3LDU2MzExNzU0MiwtMTEyMDc4MTg2MSwtMTAzNzg1Mzcz
+OV19
 -->

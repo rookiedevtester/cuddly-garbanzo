@@ -38,8 +38,13 @@ HLD DLD LLD
 Software architecture
 DBUF
 
-Con
+Construction framework
+**Construction**
+Unit, Integration and Testing
+Code review
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNjU1OTc5OSw0MTEwNjA3Nyw1NjMxMT
+eyJoaXN0b3J5IjpbLTYzNzM1MDY5MSw0MTEwNjA3Nyw1NjMxMT
 c1NDIsLTExMjA3ODE4NjEsLTEwMzc4NTM3MzldfQ==
 -->

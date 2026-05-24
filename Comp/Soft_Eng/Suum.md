@@ -51,9 +51,13 @@ Software Quality Management (SQM)
 Software Quality Assurance (SQA)
 
 Waterfall model
+V-model
+Incremental model
+Prototyping model
+Spiral model
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NjU1ODI4NywxMDYzNDAxNTU3LC02Mz
-czNTA2OTEsNDExMDYwNzcsNTYzMTE3NTQyLC0xMTIwNzgxODYx
-LC0xMDM3ODUzNzM5XX0=
+eyJoaXN0b3J5IjpbLTEwMjEyOTM4NDAsMTA2MzQwMTU1NywtNj
+M3MzUwNjkxLDQxMTA2MDc3LDU2MzExNzU0MiwtMTEyMDc4MTg2
+MSwtMTAzNzg1MzczOV19
 -->

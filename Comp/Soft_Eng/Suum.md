@@ -1,5 +1,5 @@
 Software
-Software Development Life Cycle SDLC
+Software Development Life Cycle (SDLC)
 System software
 Application software
 Embedded software
@@ -50,8 +50,10 @@ Software Configuration Item (SCI)
 Software Quality Management (SQM)
 Software Quality Assurance (SQA)
 
+Waterfall model
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NjczMTgzNSwxMDYzNDAxNTU3LC02Mz
+eyJoaXN0b3J5IjpbMTk1NjU1ODI4NywxMDYzNDAxNTU3LC02Mz
 czNTA2OTEsNDExMDYwNzcsNTYzMTE3NTQyLC0xMTIwNzgxODYx
 LC0xMDM3ODUzNzM5XX0=
 -->

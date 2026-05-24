@@ -43,8 +43,11 @@ Construction framework
 Unit, Integration and Testing
 Code review
 
+Crosscutting/ Umbrella activity
 
+Software configuration 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzM1MDY5MSw0MTEwNjA3Nyw1NjMxMT
-c1NDIsLTExMjA3ODE4NjEsLTEwMzc4NTM3MzldfQ==
+eyJoaXN0b3J5IjpbODkyMTcxNDY0LC02MzczNTA2OTEsNDExMD
+YwNzcsNTYzMTE3NTQyLC0xMTIwNzgxODYxLC0xMDM3ODUzNzM5
+XX0=
 -->

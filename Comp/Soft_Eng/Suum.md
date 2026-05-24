@@ -25,12 +25,15 @@ Prescriptive process model
 Agile Process model
 	ASDE
 
-Process framework activi
+Process framework activities
+Inception framework
+**Inception phase**
+
 	
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5ODUwNDUxNyw0MTEwNjA3Nyw1NjMxMT
+eyJoaXN0b3J5IjpbLTU3OTM0MjU1MSw0MTEwNjA3Nyw1NjMxMT
 c1NDIsLTExMjA3ODE4NjEsLTEwMzc4NTM3MzldfQ==
 -->

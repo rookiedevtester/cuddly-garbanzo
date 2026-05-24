@@ -32,7 +32,11 @@ Use case
 Requirement modeling
 	UML
 
+**Elaboration phase**
+HLD DLD
+Software architecture
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MzQ1OTYxNiw0MTEwNjA3Nyw1NjMxMT
+eyJoaXN0b3J5IjpbMTcwMjgzMTAzOSw0MTEwNjA3Nyw1NjMxMT
 c1NDIsLTExMjA3ODE4NjEsLTEwMzc4NTM3MzldfQ==
 -->

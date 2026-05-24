@@ -65,7 +65,6 @@ System testing
 Acceptance Testing
 Usability Testing
 
-
 Crosscutting/ Umbrella activity
 
 Software Configuration Management (SCM)
@@ -76,7 +75,8 @@ Software Quality Assurance (SQA)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NzUyNzAzNCwxMzQzMTgxNTc4LDE2Mz
-cwMDAwMTQsMTA2MzQwMTU1NywtNjM3MzUwNjkxLDQxMTA2MDc3
-LDU2MzExNzU0MiwtMTEyMDc4MTg2MSwtMTAzNzg1MzczOV19
+eyJoaXN0b3J5IjpbLTExNDkzNTMxNDAsMTM0MzE4MTU3OCwxNj
+M3MDAwMDE0LDEwNjM0MDE1NTcsLTYzNzM1MDY5MSw0MTEwNjA3
+Nyw1NjMxMTc1NDIsLTExMjA3ODE4NjEsLTEwMzc4NTM3MzldfQ
+==
 -->

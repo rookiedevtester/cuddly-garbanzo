@@ -19,11 +19,14 @@ availability
 scalability
 security
 
+Process model
 Traditional process model
+Prescriptive process model
+Agile Process model
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDExMDYwNzcsNTYzMTE3NTQyLC0xMTIwNz
-gxODYxLC0xMDM3ODUzNzM5XX0=
+eyJoaXN0b3J5IjpbMTc4ODMyOTA5MSw0MTEwNjA3Nyw1NjMxMT
+c1NDIsLTExMjA3ODE4NjEsLTEwMzc4NTM3MzldfQ==
 -->

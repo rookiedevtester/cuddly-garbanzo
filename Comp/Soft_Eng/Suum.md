@@ -28,10 +28,11 @@ Agile Process model
 Process framework activities
 Inception framework
 **Inception phase**
-
-    enter code here
+Use case
+Requirement modeling
+	UML
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODc2NzY5NzYsNDExMDYwNzcsNTYzMT
-E3NTQyLC0xMTIwNzgxODYxLC0xMDM3ODUzNzM5XX0=
+eyJoaXN0b3J5IjpbLTQ2MzQ1OTYxNiw0MTEwNjA3Nyw1NjMxMT
+c1NDIsLTExMjA3ODE4NjEsLTEwMzc4NTM3MzldfQ==
 -->

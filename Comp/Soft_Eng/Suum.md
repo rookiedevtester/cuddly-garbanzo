@@ -18,9 +18,12 @@ throughput
 availability
 scalability
 security
-t
+
+Traditional process model
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MzM4MzI5MCw1NjMxMTc1NDIsLTExMj
-A3ODE4NjEsLTEwMzc4NTM3MzldfQ==
+eyJoaXN0b3J5IjpbNDExMDYwNzcsNTYzMTE3NTQyLC0xMTIwNz
+gxODYxLC0xMDM3ODUzNzM5XX0=
 -->

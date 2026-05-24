@@ -53,8 +53,11 @@ DBUF
 
 Construction framework
 **Construction**
+Software Testing
 Unit, Integration and Testing
 Code review
+Testing methods
+
 
 Crosscutting/ Umbrella activity
 
@@ -66,7 +69,7 @@ Software Quality Assurance (SQA)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2OTI5OTM5OSwxMDYzNDAxNTU3LC02Mz
+eyJoaXN0b3J5IjpbMTYzNzAwMDAxNCwxMDYzNDAxNTU3LC02Mz
 czNTA2OTEsNDExMDYwNzcsNTYzMTE3NTQyLC0xMTIwNzgxODYx
 LC0xMDM3ODUzNzM5XX0=
 -->

@@ -29,11 +29,9 @@ Process framework activities
 Inception framework
 **Inception phase**
 
-	
-
-
+    enter code here
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTM0MjU1MSw0MTEwNjA3Nyw1NjMxMT
-c1NDIsLTExMjA3ODE4NjEsLTEwMzc4NTM3MzldfQ==
+eyJoaXN0b3J5IjpbLTE4ODc2NzY5NzYsNDExMDYwNzcsNTYzMT
+E3NTQyLC0xMTIwNzgxODYxLC0xMDM3ODUzNzM5XX0=
 -->

@@ -24,6 +24,11 @@ Traditional process model
 Prescriptive process model
 Agile Process model
 	ASDE
+	Scrum
+	Sprint
+	DevOps
+	Site Reliability Engineering
+	
 
 Waterfall model
 V-model
@@ -61,7 +66,7 @@ Software Quality Assurance (SQA)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MDg4MjYwNCwxMDYzNDAxNTU3LC02Mz
+eyJoaXN0b3J5IjpbLTc2OTI5OTM5OSwxMDYzNDAxNTU3LC02Mz
 czNTA2OTEsNDExMDYwNzcsNTYzMTE3NTQyLC0xMTIwNzgxODYx
 LC0xMDM3ODUzNzM5XX0=
 -->

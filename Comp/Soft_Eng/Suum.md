@@ -60,6 +60,11 @@ Testing methods
 White box
 Black box
 Gray box
+TDD
+System testing
+Acceptance Testing
+Usability Testing
+
 
 Crosscutting/ Umbrella activity
 
@@ -71,7 +76,7 @@ Software Quality Assurance (SQA)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MzE4MTU3OCwxNjM3MDAwMDE0LDEwNj
-M0MDE1NTcsLTYzNzM1MDY5MSw0MTEwNjA3Nyw1NjMxMTc1NDIs
-LTExMjA3ODE4NjEsLTEwMzc4NTM3MzldfQ==
+eyJoaXN0b3J5IjpbMTQ5NzUyNzAzNCwxMzQzMTgxNTc4LDE2Mz
+cwMDAwMTQsMTA2MzQwMTU1NywtNjM3MzUwNjkxLDQxMTA2MDc3
+LDU2MzExNzU0MiwtMTEyMDc4MTg2MSwtMTAzNzg1MzczOV19
 -->

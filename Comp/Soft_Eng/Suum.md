@@ -25,18 +25,21 @@ Prescriptive process model
 Agile Process model
 	ASDE
 
-Process framework activities
+Process framework
 Inception framework
 **Inception phase**
 Use case
 Requirement modeling
 	UML
 
+Elaboration framework
 **Elaboration phase**
 HLD DLD LLD
 Software architecture
 DBUF
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyOTg4NzE4MCw0MTEwNjA3Nyw1NjMxMT
+eyJoaXN0b3J5IjpbLTQ1NTgxNDM3Myw0MTEwNjA3Nyw1NjMxMT
 c1NDIsLTExMjA3ODE4NjEsLTEwMzc4NTM3MzldfQ==
 -->

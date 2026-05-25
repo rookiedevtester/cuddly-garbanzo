@@ -24,7 +24,9 @@ SPA life cycle
 
 Web 3.0
 DApps
+Full node
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg0NDcwNTczLDE4NDM0NDE4ODddfQ==
+eyJoaXN0b3J5IjpbMTE2ODEyNDQxOCw4ODQ0NzA1NzMsMTg0Mz
+Q0MTg4N119
 -->

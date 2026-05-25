@@ -1,8 +1,8 @@
 World Wide Web
-: A link of contents stored in the servers
+: A link of contents such as image, video, text stored in the servers
 
 Web server
-:
+: Where the 
 
 HTTP
 TCP/IP
@@ -39,8 +39,8 @@ zk-rollup
 NFT
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjA0OTY5NTIsMTIxNTI1MzAzMiw0Nj
-YzNjk0MDksMTgwODU4NTMxMSwyMTE3MTM2NDY4LC0xNjMwOTc4
-OTQ0LDExNjgxMjQ0MTgsODg0NDcwNTczLDE4NDM0NDE4ODddfQ
-==
+eyJoaXN0b3J5IjpbLTE2NDI3NjkzNjIsLTExMjA0OTY5NTIsMT
+IxNTI1MzAzMiw0NjYzNjk0MDksMTgwODU4NTMxMSwyMTE3MTM2
+NDY4LC0xNjMwOTc4OTQ0LDExNjgxMjQ0MTgsODg0NDcwNTczLD
+E4NDM0NDE4ODddfQ==
 -->

@@ -23,13 +23,17 @@ Architecture and usage model
 SPA life cycle
 
 Web 3.0
+DLT
 DApps
 Full node
 RPC
 Gas price
-Side 
+Sidechain
+Optimistic rollup
+zk-rollup
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMTc2NzYzNiwxMTY4MTI0NDE4LDg4ND
-Q3MDU3MywxODQzNDQxODg3XX0=
+eyJoaXN0b3J5IjpbLTE2MzA5Nzg5NDQsMTE2ODEyNDQxOCw4OD
+Q0NzA1NzMsMTg0MzQ0MTg4N119
 -->

@@ -2,6 +2,8 @@ World Wide Web
 : A link of contents stored in the servers
 
 Web server
+:
+
 HTTP
 TCP/IP
 API
@@ -37,7 +39,8 @@ zk-rollup
 NFT
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNTI1MzAzMiw0NjYzNjk0MDksMTgwOD
-U4NTMxMSwyMTE3MTM2NDY4LC0xNjMwOTc4OTQ0LDExNjgxMjQ0
-MTgsODg0NDcwNTczLDE4NDM0NDE4ODddfQ==
+eyJoaXN0b3J5IjpbLTExMjA0OTY5NTIsMTIxNTI1MzAzMiw0Nj
+YzNjk0MDksMTgwODU4NTMxMSwyMTE3MTM2NDY4LC0xNjMwOTc4
+OTQ0LDExNjgxMjQ0MTgsODg0NDcwNTczLDE4NDM0NDE4ODddfQ
+==
 -->

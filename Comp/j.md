@@ -1,5 +1,9 @@
 World Wide Web
 Web server
+API
+URL
+URI
+HTTP
 Web publishing
 View
 Loose coupling
@@ -7,10 +11,6 @@ AJAX
 DOM
 JSON
 GraphQL
-API
-URL
-URI
-HTTP
 
 Web 2.0 Traditional
 MVC pattern
@@ -34,6 +34,7 @@ zk-rollup
 NFT
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNzEzNjQ2OCwtMTYzMDk3ODk0NCwxMT
-Y4MTI0NDE4LDg4NDQ3MDU3MywxODQzNDQxODg3XX0=
+eyJoaXN0b3J5IjpbMTIzNjQ0NzkwOCwyMTE3MTM2NDY4LC0xNj
+MwOTc4OTQ0LDExNjgxMjQ0MTgsODg0NDcwNTczLDE4NDM0NDE4
+ODddfQ==
 -->

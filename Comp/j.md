@@ -23,8 +23,8 @@ Architecture and usage model
 SPA life cycle
 
 Web 3.0
-
+DApps
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MDI1NDEzMSwxODQzNDQxODg3XX0=
+eyJoaXN0b3J5IjpbODg0NDcwNTczLDE4NDM0NDE4ODddfQ==
 -->

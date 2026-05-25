@@ -17,12 +17,14 @@ URL
 : Uniform Resource Locator
 
 URI
-: Uniform Resource Identif
+: Uniform Resource Identifier
 
 Web publishing
 View
 Loose coupling
-AJAX
+
+AJAX:
+
 DOM
 JSON
 GraphQL
@@ -49,8 +51,8 @@ zk-rollup
 NFT
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgwOTA2NjgzLC0xODEyNTI0OTM4LDUwNz
-gwMDg2NiwtMTEyMDQ5Njk1MiwxMjE1MjUzMDMyLDQ2NjM2OTQw
-OSwxODA4NTg1MzExLDIxMTcxMzY0NjgsLTE2MzA5Nzg5NDQsMT
-E2ODEyNDQxOCw4ODQ0NzA1NzMsMTg0MzQ0MTg4N119
+eyJoaXN0b3J5IjpbLTE1NzYwODQ4NzksLTE4MTI1MjQ5MzgsNT
+A3ODAwODY2LC0xMTIwNDk2OTUyLDEyMTUyNTMwMzIsNDY2MzY5
+NDA5LDE4MDg1ODUzMTEsMjExNzEzNjQ2OCwtMTYzMDk3ODk0NC
+wxMTY4MTI0NDE4LDg4NDQ3MDU3MywxODQzNDQxODg3XX0=
 -->

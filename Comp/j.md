@@ -24,6 +24,7 @@ SPA life cycle
 
 Web 3.0
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MzQ0MTg4N119
+eyJoaXN0b3J5IjpbLTI0MDI1NDEzMSwxODQzNDQxODg3XX0=
 -->

@@ -31,9 +31,9 @@ Gas price
 Sidechain
 Optimistic rollup
 zk-rollup
-NF
+NFT
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MjY1Mzg4MCwtMTYzMDk3ODk0NCwxMT
+eyJoaXN0b3J5IjpbMjExNzEzNjQ2OCwtMTYzMDk3ODk0NCwxMT
 Y4MTI0NDE4LDg4NDQ3MDU3MywxODQzNDQxODg3XX0=
 -->

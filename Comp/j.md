@@ -1,9 +1,10 @@
 World Wide Web
 Web server
+HTTP
+TCP/IP
 API
 URL
 URI
-HTTP
 Web publishing
 View
 Loose coupling
@@ -34,7 +35,7 @@ zk-rollup
 NFT
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNjQ0NzkwOCwyMTE3MTM2NDY4LC0xNj
+eyJoaXN0b3J5IjpbMTgwODU4NTMxMSwyMTE3MTM2NDY4LC0xNj
 MwOTc4OTQ0LDExNjgxMjQ0MTgsODg0NDcwNTczLDE4NDM0NDE4
 ODddfQ==
 -->

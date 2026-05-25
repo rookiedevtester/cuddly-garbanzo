@@ -11,9 +11,13 @@ TCP/IP
 : Transfer Control Protocol/Internet Protocol 
 
 API
+: Application Programming Interface
 
 URL
+: Uniform Resource Locator
+
 URI
+: f
 Web publishing
 View
 Loose coupling
@@ -44,8 +48,8 @@ zk-rollup
 NFT
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MzI3NDcxNiwtMTgxMjUyNDkzOCw1MD
-c4MDA4NjYsLTExMjA0OTY5NTIsMTIxNTI1MzAzMiw0NjYzNjk0
-MDksMTgwODU4NTMxMSwyMTE3MTM2NDY4LC0xNjMwOTc4OTQ0LD
-ExNjgxMjQ0MTgsODg0NDcwNTczLDE4NDM0NDE4ODddfQ==
+eyJoaXN0b3J5IjpbLTE0NjI0NzI5ODgsLTE4MTI1MjQ5MzgsNT
+A3ODAwODY2LC0xMTIwNDk2OTUyLDEyMTUyNTMwMzIsNDY2MzY5
+NDA5LDE4MDg1ODUzMTEsMjExNzEzNjQ2OCwtMTYzMDk3ODk0NC
+wxMTY4MTI0NDE4LDg4NDQ3MDU3MywxODQzNDQxODg3XX0=
 -->

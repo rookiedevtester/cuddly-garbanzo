@@ -2,10 +2,14 @@ World Wide Web
 : A link of contents such as image, video, text stored in the servers
 
 Web server
-: Where the 
+: Where the content is stored
 
 HTTP
+: Hypertext Transfer Protocol
+
 TCP/IP
+: Transfer 
+
 API
 URL
 URI
@@ -39,7 +43,7 @@ zk-rollup
 NFT
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDI3NjkzNjIsLTExMjA0OTY5NTIsMT
+eyJoaXN0b3J5IjpbLTE4MzY0NTY0MTcsLTExMjA0OTY5NTIsMT
 IxNTI1MzAzMiw0NjYzNjk0MDksMTgwODU4NTMxMSwyMTE3MTM2
 NDY4LC0xNjMwOTc4OTQ0LDExNjgxMjQ0MTgsODg0NDcwNTczLD
 E4NDM0NDE4ODddfQ==

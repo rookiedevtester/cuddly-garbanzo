@@ -10,6 +10,9 @@ HTTP
 TCP/IP
 : Transfer Control Protocol/Internet Protocol 
 
+CGI
+: Common Gateway Interface
+
 API
 : Application Programming Interface
 
@@ -19,15 +22,21 @@ URL
 URI
 : Uniform Resource Identifier
 
+AJAX
+: Asynchronous JavaScript and XML
+
+DOM
+: Document Object Model
+
+JSON
+: h
+
+GraphQL
+: j
+
 Web publishing
 View
 Loose coupling
-
-AJAX
-: Asynchronous Javascript and XML
-DOM
-JSON
-GraphQL
 
 Web 2.0 Traditional
 MVC pattern
@@ -51,5 +60,5 @@ zk-rollup
 NFT
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1ODIwNDg2Nl19
+eyJoaXN0b3J5IjpbLTIwMzIxNzIxNDJdfQ==
 -->

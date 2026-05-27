@@ -13,9 +13,6 @@ XML HTTP Request is a JavaScript object used in communication between client and
 TCP/IP
 Transfer Control Protocol/Internet Protocol 
 
-RFC 1122
-OSI model
-DoD Innte
 
 CGI
 Common Gateway Interface
@@ -67,6 +64,6 @@ zk-rollup
 NFT
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwODEwMjUzNiwxNTYzMDUwNzk5LC0xNj
+eyJoaXN0b3J5IjpbMTU1NzYzNzUwNCwxNTYzMDUwNzk5LC0xNj
 E5MDIzMTI4LDEyNzMyNDMwOTAsMTA4NzgyNDE2N119
 -->

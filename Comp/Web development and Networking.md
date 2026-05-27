@@ -5,9 +5,10 @@ Web server
 A hardware and software system that stores the websites' files such as image, video, and other file formats used to build website.
 
 HTTP
-Hypertext Transfer Protocol (HTTP) is a set of rules for transmitting infoclient and 
+Hypertext Transfer Protocol (HTTP) is a set of rules for communicating between client and server.
 
 XHR
+XML HTTP Request is a Javasc
 
 TCP/IP
 Transfer Control Protocol/Internet Protocol 
@@ -62,5 +63,5 @@ zk-rollup
 NFT
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU2NTg4NDUyLDEwODc4MjQxNjddfQ==
+eyJoaXN0b3J5IjpbMTI3MzI0MzA5MCwxMDg3ODI0MTY3XX0=
 -->

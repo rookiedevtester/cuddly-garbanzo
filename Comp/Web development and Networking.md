@@ -7,6 +7,8 @@ A hardware and software system that stores the websites' files such as image, vi
 HTTP
 Hypertext Transfer Protocol 
 
+XHR
+
 TCP/IP
 Transfer Control Protocol/Internet Protocol 
 
@@ -60,5 +62,5 @@ zk-rollup
 NFT
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNDYzMTU2MSwxMDg3ODI0MTY3XX0=
+eyJoaXN0b3J5IjpbLTEwMjM3NzkzODMsMTA4NzgyNDE2N119
 -->

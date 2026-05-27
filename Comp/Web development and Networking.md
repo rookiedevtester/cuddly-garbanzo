@@ -5,7 +5,7 @@ Web server
 A hardware and software system that stores the websites' files such as image, video, and other file formats used to build website.
 
 HTTP
-Hypertext Transfer Protocol
+Hypertext Transfer Protocol 
 
 TCP/IP
 Transfer Control Protocol/Internet Protocol 
@@ -60,5 +60,5 @@ zk-rollup
 NFT
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NzgyNDE2N119
+eyJoaXN0b3J5IjpbLTIzNDYzMTU2MSwxMDg3ODI0MTY3XX0=
 -->

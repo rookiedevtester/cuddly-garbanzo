@@ -2,7 +2,7 @@ World Wide Web
 A globally connected information system which can be access through internet
 
 Web server
-A hardware and software system that stores the websites' files such as image, 
+A hardware and software system that stores the websites' files such as image, video, and other file formats used to build website.
 
 HTTP
 Hypertext Transfer Protocol
@@ -60,5 +60,5 @@ zk-rollup
 NFT
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNjc4MTc2XX0=
+eyJoaXN0b3J5IjpbMTA4NzgyNDE2N119
 -->

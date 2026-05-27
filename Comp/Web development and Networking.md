@@ -1,5 +1,5 @@
 World Wide Web 
-A link of contents such as image, video, text stored in the servers
+WWW is a globally connected information system which can be access through 
 
 Web server
 Where the content is stored
@@ -60,5 +60,5 @@ zk-rollup
 NFT
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNDE2MTgxMF19
+eyJoaXN0b3J5IjpbLTYzOTE4OTUyNF19
 -->

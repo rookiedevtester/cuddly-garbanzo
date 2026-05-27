@@ -1,23 +1,23 @@
-World Wide Web
-: A link of contents such as image, video, text stored in the servers
+World Wide Web 
+A link of contents such as image, video, text stored in the servers
 
 Web server
-: Where the content is stored
+Where the content is stored
 
 HTTP
-: Hypertext Transfer Protocol
+Hypertext Transfer Protocol
 
 TCP/IP
-: Transfer Control Protocol/Internet Protocol 
+Transfer Control Protocol/Internet Protocol 
 
 CGI
-: Common Gateway Interface
+Common Gateway Interface
 
 API
-: Application Programming Interface
+Application Programming Interface
 
 URL
-: Uniform Resource Locator
+Uniform Resource Locator
 
 URI
 : Uniform Resource Identifier
@@ -60,5 +60,5 @@ zk-rollup
 NFT
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzIxNzIxNDJdfQ==
+eyJoaXN0b3J5IjpbMTkyNDE2MTgxMF19
 -->

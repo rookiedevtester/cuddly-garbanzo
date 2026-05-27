@@ -8,7 +8,7 @@ HTTP
 Hypertext Transfer Protocol (HTTP) is a set of rules for communicating between client and server.
 
 XHR
-XML HTTP Request is a JavaScript object  
+XML HTTP Request is a JavaScript object used in communication between client and server. 
 
 TCP/IP
 Transfer Control Protocol/Internet Protocol 
@@ -63,6 +63,6 @@ zk-rollup
 NFT
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTkwMjMxMjgsMTI3MzI0MzA5MCwxMD
-g3ODI0MTY3XX0=
+eyJoaXN0b3J5IjpbMTU2MzA1MDc5OSwtMTYxOTAyMzEyOCwxMj
+czMjQzMDkwLDEwODc4MjQxNjddfQ==
 -->

@@ -1,8 +1,8 @@
 World Wide Web 
-WWW is a globally connected information system which can be access through 
+A globally connected information system which can be access through internet
 
 Web server
-Where the content is stored
+A hardware and software system that stores the websites' files such as image, 
 
 HTTP
 Hypertext Transfer Protocol
@@ -60,5 +60,5 @@ zk-rollup
 NFT
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzOTE4OTUyNF19
+eyJoaXN0b3J5IjpbMTIzNjc4MTc2XX0=
 -->

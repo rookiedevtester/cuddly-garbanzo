@@ -8,7 +8,10 @@ HTML
 Hypertext Markup Language
 
 CSS
-Cascading 
+Cascading Style Sheet
+
+JS
+JavaScript
 
 DOM
 
@@ -16,5 +19,5 @@ JSON
 
 GraphQL
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNTUzNzUyOF19
+eyJoaXN0b3J5IjpbLTQzMDM3NTI3MCwtNTA1NTM3NTI4XX0=
 -->

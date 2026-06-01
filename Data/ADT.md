@@ -3,26 +3,26 @@ Abstract Data Type (ADT)
 A conceptual model for visualizing data structure.
 
 List
-A collection of items in finite order. It allows operations such as adding, retrieving and removing. A list is organized by item's position called **index**. 
+: A collection of items in finite order. It allows operations such as adding, retrieving and removing. A list is organized by item's position called **index**. 
 
 Set
-A collection of items without any order. It allows operations such as adding, retrieving and removing. Despite having less functionality than lists, sets can represent data structure efficiently.
+: A collection of items without any order. It allows operations such as adding, retrieving and removing. Despite having less functionality than lists, sets can represent data structure efficiently.
 
 Map
-A association between key and value elements, where key only appears once. It is also called dictionary as terms(key) are linked with definition(value).
+: A association between key and value elements, where key only appears once. It is also called dictionary as terms(key) are linked with definition(value).
 
 Stack
-A collections of item where the items are stacked in a way that those added last can be removed first, following the **LIFO (Last-In, First-Out)** principle. The first item to get in also comes out last.
+:  A collections of item where the items are stacked in a way that those added last can be removed first, following the **LIFO (Last-In, First-Out)** principle. The first item to get in also comes out last.
 
 Queue
-A collections of item where the items are arranged in a way that those added first can be removed last, following the **FIFO(First-In, First-Out)** principle.
+: A collections of item where the items are arranged in a way that those added first can be removed last, following the **FIFO(First-In, First-Out)** principle.
 
 Graph
-A relation where each vertex(items) is connected by an edge, which refers to strength of connection between such vertices. A group of two vertices and an edge is called adjacent.  
+: A relation where each vertex(items) is connected by an edge, which refers to strength of connection between such vertices. A group of two vertices and an edge is called **adjacent**.  
 
 Tree
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTMzMjk5NTEsNDIwMzIxODI5LDE0MT
+eyJoaXN0b3J5IjpbLTE4NjQ5NTMyMDMsNDIwMzIxODI5LDE0MT
 cwMzYzMzUsLTIxMDgyNzU3NTksMTg3MDg5MjU3MSwtNzA5ODkw
 MTMwLDExNjQ5MzgzNjgsODc1ODMzNjgxLC0yMDY0NDExNTA2XX
 0=

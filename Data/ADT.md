@@ -12,13 +12,13 @@ Map
 A association between key and value elements, where key only appears once. It is also called dictionary as terms(key) are linked with definition(value).
 
 Stack
-
+A collections of item where the items are stacked in a way that the top o
 
 Queue
 Graph
 Tree
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDgyNzU3NTksMTg3MDg5MjU3MSwtNz
-A5ODkwMTMwLDExNjQ5MzgzNjgsODc1ODMzNjgxLC0yMDY0NDEx
-NTA2XX0=
+eyJoaXN0b3J5IjpbNjIzODk1MTI5LC0yMTA4Mjc1NzU5LDE4Nz
+A4OTI1NzEsLTcwOTg5MDEzMCwxMTY0OTM4MzY4LDg3NTgzMzY4
+MSwtMjA2NDQxMTUwNl19
 -->

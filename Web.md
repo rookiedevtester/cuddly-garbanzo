@@ -1,6 +1,6 @@
 World Wide Web 
 A globally connected information system which can be access through internet
-- Evolution Web 1.0 -> 2.0 -> 3.0
+- Evolution Web 1.0 -> 2.0 -> 3.0 -> 4.0 (coming)
 
 Web server
 A hardware and software system that stores the websites' files such as image, video, and other file formats used to build website.
@@ -44,5 +44,5 @@ Web publishing
 View
 Loose coupling
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MDUxNTE3LC0xMDk2NDQ1MDMzXX0=
+eyJoaXN0b3J5IjpbLTU3MTU5MzY5MiwtMTA5NjQ0NTAzM119
 -->

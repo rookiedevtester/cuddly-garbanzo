@@ -18,11 +18,12 @@ Queue
 A collections of item where the items are arranged in a way that those added first can be removed last, following the **FIFO(First-In, First-Out)** principle.
 
 Graph
-A relation where each vertex(items) is connected by edge, which refers to  
+A relation where each vertex(items) is connected by an edge, which refers to strength of connection between such vertices. A group of two vertices and an edge is called adjacent.  
 
 Tree
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ1NTU3Mzk0LDQyMDMyMTgyOSwxNDE3MD
-M2MzM1LC0yMTA4Mjc1NzU5LDE4NzA4OTI1NzEsLTcwOTg5MDEz
-MCwxMTY0OTM4MzY4LDg3NTgzMzY4MSwtMjA2NDQxMTUwNl19
+eyJoaXN0b3J5IjpbLTE2OTMzMjk5NTEsNDIwMzIxODI5LDE0MT
+cwMzYzMzUsLTIxMDgyNzU3NTksMTg3MDg5MjU3MSwtNzA5ODkw
+MTMwLDExNjQ5MzgzNjgsODc1ODMzNjgxLC0yMDY0NDExNTA2XX
+0=
 -->

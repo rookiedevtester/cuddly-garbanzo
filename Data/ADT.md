@@ -18,12 +18,11 @@ Queue
 A collections of item where the items are arranged in a way that those added first can be removed last, following the **FIFO(First-In, First-Out)** principle.
 
 Graph
-A relation where each vertices 
+A relation where each vertex(items) is connected by edge, which refers to  
 
 Tree
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMzA3ODgzMiw0MjAzMjE4MjksMTQxNz
-AzNjMzNSwtMjEwODI3NTc1OSwxODcwODkyNTcxLC03MDk4OTAx
-MzAsMTE2NDkzODM2OCw4NzU4MzM2ODEsLTIwNjQ0MTE1MDZdfQ
-==
+eyJoaXN0b3J5IjpbMzQ1NTU3Mzk0LDQyMDMyMTgyOSwxNDE3MD
+M2MzM1LC0yMTA4Mjc1NzU5LDE4NzA4OTI1NzEsLTcwOTg5MDEz
+MCwxMTY0OTM4MzY4LDg3NTgzMzY4MSwtMjA2NDQxMTUwNl19
 -->

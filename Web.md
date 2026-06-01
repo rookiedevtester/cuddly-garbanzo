@@ -38,14 +38,14 @@ URL
 Uniform Resource Locator
 
 URI
-: Uniform Resource Identifier
+Uniform Resource Identifier
 
-
+MVC
 
 Web publishing
 View
 Loose coupling
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUwMDA0NDIxLC01NzE1OTM2OTIsLTEwOT
-Y0NDUwMzNdfQ==
+eyJoaXN0b3J5IjpbMjA1MDcyMTM4MSwtNTcxNTkzNjkyLC0xMD
+k2NDQ1MDMzXX0=
 -->

@@ -21,10 +21,10 @@ Graph
 : A relation where each vertex(items) is connected by an edge, which refers to strength of connection between such vertices. A group of two vertices and an edge is called **adjacent**.  
 
 Tree
-A hierarchical structure where 
+An organization of items where they are hierarchical structure
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQyOTcyODUsNDIwMzIxODI5LDE0MT
-cwMzYzMzUsLTIxMDgyNzU3NTksMTg3MDg5MjU3MSwtNzA5ODkw
-MTMwLDExNjQ5MzgzNjgsODc1ODMzNjgxLC0yMDY0NDExNTA2XX
-0=
+eyJoaXN0b3J5IjpbLTEzMDY1NzYzODEsLTE3NzQyOTcyODUsND
+IwMzIxODI5LDE0MTcwMzYzMzUsLTIxMDgyNzU3NTksMTg3MDg5
+MjU3MSwtNzA5ODkwMTMwLDExNjQ5MzgzNjgsODc1ODMzNjgxLC
+0yMDY0NDExNTA2XX0=
 -->

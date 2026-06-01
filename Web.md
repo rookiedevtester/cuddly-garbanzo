@@ -1,9 +1,11 @@
 World Wide Web 
-A globally connected information system which can be access through internet
+A globally connected information system which can be access through internet.
 - Evolution Web 1.0 -> 2.0 -> 3.0 -> 4.0 (coming)
 
 Web server
-A hardware and software system that stores the websites' files such as image, video, and other file formats used to build website.
+: A hardware and software system that stores the websites' files such as image, video, and other file formats used to build website.
+
+Web page 
 
 HTTP
 Hypertext Transfer Protocol (HTTP) is a set of rules for communicating between client and server.
@@ -44,5 +46,6 @@ Web publishing
 View
 Loose coupling
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MTU5MzY5MiwtMTA5NjQ0NTAzM119
+eyJoaXN0b3J5IjpbMjUwMDA0NDIxLC01NzE1OTM2OTIsLTEwOT
+Y0NDUwMzNdfQ==
 -->

@@ -5,9 +5,10 @@ Abstract Data Type (ADT)
 List
 Set
 Map
-Priority queue
+Stack
+Queue
 Graph
 Tree
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkyMjEwNzUwLC0yMDY0NDExNTA2XX0=
+eyJoaXN0b3J5IjpbLTczNjQ3NjkyOCwtMjA2NDQxMTUwNl19
 -->

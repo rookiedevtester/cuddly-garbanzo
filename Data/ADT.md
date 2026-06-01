@@ -23,13 +23,13 @@ Queue
 
 Graph
 : A relation where each vertex(items) is connected by an edge, which refers to strength of connection between such vertices. A group of two vertices and an edge is called **adjacent**.  
-<br/>
 
+<br/>
 Tree
 : A connection of items where they are organized hierarchical structure. Each node(item) has children and they exactly share one parent, except for the **root node**, which is the topmost element in the tree. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzg5ODgwNyw4MzIyNDY0NjYsLTE3Nz
-QyOTcyODUsNDIwMzIxODI5LDE0MTcwMzYzMzUsLTIxMDgyNzU3
-NTksMTg3MDg5MjU3MSwtNzA5ODkwMTMwLDExNjQ5MzgzNjgsOD
-c1ODMzNjgxLC0yMDY0NDExNTA2XX0=
+eyJoaXN0b3J5IjpbLTEwOTAzNDE0NjcsLTYzNzg5ODgwNyw4Mz
+IyNDY0NjYsLTE3NzQyOTcyODUsNDIwMzIxODI5LDE0MTcwMzYz
+MzUsLTIxMDgyNzU3NTksMTg3MDg5MjU3MSwtNzA5ODkwMTMwLD
+ExNjQ5MzgzNjgsODc1ODMzNjgxLC0yMDY0NDExNTA2XX0=
 -->

@@ -12,13 +12,15 @@ Map
 A association between key and value elements, where key only appears once. It is also called dictionary as terms(key) are linked with definition(value).
 
 Stack
-A collections of item where the items are stacked in a way that those added last can be removed first, following the LIFO (Last-In, First-Out)  
-principle.
+A collections of item where the items are stacked in a way that those added last can be removed first, following the **LIFO (Last-In, First-Out)** principle.
+
 Queue
+A relation between 
+
 Graph
 Tree
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwOTg0NzY4OCwtMjEwODI3NTc1OSwxOD
+eyJoaXN0b3J5IjpbMTQxNzAzNjMzNSwtMjEwODI3NTc1OSwxOD
 cwODkyNTcxLC03MDk4OTAxMzAsMTE2NDkzODM2OCw4NzU4MzM2
 ODEsLTIwNjQ0MTE1MDZdfQ==
 -->

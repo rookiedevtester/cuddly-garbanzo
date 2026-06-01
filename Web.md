@@ -47,12 +47,18 @@ Model-View-Controller
 Web publishing
 Posting contents onto the web.
 
-Web 1.
+Web 1.0
+
+Web 2.0
+
+Web 3.0
+
+Web 4.0
 
 View
 Loose coupling
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg2NDk2MDI3LC0xNzAwNDU4NjE1LC04Nz
-AyMzUwOTYsNjM2NjQzMTA0LDE4MTU4NDI0NTQsMTA4NzY1NDI0
-OCwtNTcxNTkzNjkyLC0xMDk2NDQ1MDMzXX0=
+eyJoaXN0b3J5IjpbLTEyODA2OTAyNjYsLTE3MDA0NTg2MTUsLT
+g3MDIzNTA5Niw2MzY2NDMxMDQsMTgxNTg0MjQ1NCwxMDg3NjU0
+MjQ4LC01NzE1OTM2OTIsLTEwOTY0NDUwMzNdfQ==
 -->

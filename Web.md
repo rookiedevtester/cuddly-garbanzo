@@ -47,12 +47,12 @@ Model-View-Controller
 Web publishing
 Posting contents onto the web.
 
-P2P Peer-to-peer
+Web 1.
 
 View
 Loose coupling
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDA0NTg2MTUsLTg3MDIzNTA5Niw2Mz
-Y2NDMxMDQsMTgxNTg0MjQ1NCwxMDg3NjU0MjQ4LC01NzE1OTM2
-OTIsLTEwOTY0NDUwMzNdfQ==
+eyJoaXN0b3J5IjpbMjg2NDk2MDI3LC0xNzAwNDU4NjE1LC04Nz
+AyMzUwOTYsNjM2NjQzMTA0LDE4MTU4NDI0NTQsMTA4NzY1NDI0
+OCwtNTcxNTkzNjkyLC0xMDk2NDQ1MDMzXX0=
 -->

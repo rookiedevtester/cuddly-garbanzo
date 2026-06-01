@@ -47,10 +47,11 @@ Model-View-Controller
 Web publishing
 Posting contents onto the web.
 
+
 View
 Loose coupling
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MDIzNTA5Niw2MzY2NDMxMDQsMTgxNT
-g0MjQ1NCwxMDg3NjU0MjQ4LC01NzE1OTM2OTIsLTEwOTY0NDUw
-MzNdfQ==
+eyJoaXN0b3J5IjpbMTAyNDM1MjIxNCwtODcwMjM1MDk2LDYzNj
+Y0MzEwNCwxODE1ODQyNDU0LDEwODc2NTQyNDgsLTU3MTU5MzY5
+MiwtMTA5NjQ0NTAzM119
 -->

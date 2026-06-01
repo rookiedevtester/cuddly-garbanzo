@@ -7,8 +7,6 @@ A hardware and software system that stores the websites' files such as image, vi
 HTTP
 Hypertext Transfer Protocol (HTTP) is a set of rules for communicating between client and server.
 - Working Principle
-NNTP FTP SSH SMTP - MIME, POP3, IMAP  VoIP
-
 
 TCP/IP
 Transfer Control Protocol/Internet Protocol 
@@ -45,5 +43,5 @@ Web publishing
 View
 Loose coupling
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI0MDAxOTE5XX0=
+eyJoaXN0b3J5IjpbLTEwOTY0NDUwMzNdfQ==
 -->

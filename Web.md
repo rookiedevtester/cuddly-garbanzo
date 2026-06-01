@@ -41,8 +41,8 @@ URI
 Uniform Resource Identifier
 
 MVC
-
-
+Model-View-Controller
+- working principle
 
 Web publishing
 Posting contents onto the web.
@@ -50,6 +50,6 @@ Posting contents onto the web.
 View
 Loose coupling
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNTg0MjQ1NCwxMDg3NjU0MjQ4LC01Nz
-E1OTM2OTIsLTEwOTY0NDUwMzNdfQ==
+eyJoaXN0b3J5IjpbNjM2NjQzMTA0LDE4MTU4NDI0NTQsMTA4Nz
+Y1NDI0OCwtNTcxNTkzNjkyLC0xMDk2NDQ1MDMzXX0=
 -->

@@ -15,9 +15,9 @@ Hypertext Transfer Protocol (HTTP) is a set of rules for communicating between c
 NNTP FTP SSH SMTP - MIME, POP3, IMAP  VoIP
 
 GET Request
-
+POST Request
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3ODk2Nzk2MSwzMzQ3MjIwOTEsNTI0OT
-c0MzU4LDI0MjU3OTQ1Ml19
+eyJoaXN0b3J5IjpbLTEzNjg2MTk0NDYsMzM0NzIyMDkxLDUyND
+k3NDM1OCwyNDI1Nzk0NTJdfQ==
 -->

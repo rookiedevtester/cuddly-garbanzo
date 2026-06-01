@@ -15,15 +15,14 @@ Stack
 A collections of item where the items are stacked in a way that those added last can be removed first, following the **LIFO (Last-In, First-Out)** principle.
 
 Queue
-A collections of item where the items are arranged in a way that those added first can be removed last, following the **FIFO(First-In, Last-Out)** principle.
+A collections of item where the items are arranged in a way that those added first can be removed last, following the **FIFO(First-In, First-Out)** principle.
 
 Graph
 A relation between elements, where 
 
 Tree
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0Nzc0NjI4NSw0MjAzMjE4MjksMTQxNz
-AzNjMzNSwtMjEwODI3NTc1OSwxODcwODkyNTcxLC03MDk4OTAx
-MzAsMTE2NDkzODM2OCw4NzU4MzM2ODEsLTIwNjQ0MTE1MDZdfQ
-==
+eyJoaXN0b3J5IjpbLTIyMjcxMTA1LDQyMDMyMTgyOSwxNDE3MD
+M2MzM1LC0yMTA4Mjc1NzU5LDE4NzA4OTI1NzEsLTcwOTg5MDEz
+MCwxMTY0OTM4MzY4LDg3NTgzMzY4MSwtMjA2NDQxMTUwNl19
 -->

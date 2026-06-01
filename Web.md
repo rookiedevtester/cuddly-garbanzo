@@ -9,9 +9,6 @@ Hypertext Transfer Protocol (HTTP) is a set of rules for communicating between c
 - Working Principle
 NNTP FTP SSH SMTP - MIME, POP3, IMAP  VoIP
 
-XHR
-XML HTTP Request is a JavaScript object used in communication between client and server. It can update a page without reloading.
-- Working Principle
 
 TCP/IP
 Transfer Control Protocol/Internet Protocol 
@@ -48,5 +45,5 @@ Web publishing
 View
 Loose coupling
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk3ODcyMzIwXX0=
+eyJoaXN0b3J5IjpbNzI0MDAxOTE5XX0=
 -->

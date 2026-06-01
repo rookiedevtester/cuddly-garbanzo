@@ -4,11 +4,17 @@ XML HTTP Request is a JavaScript object used in communication between client and
 
 AJAX
 
+HTML
+Hypertext Markup Language
+
+CSS
+Cascading 
+
 DOM
 
 JSON
 
 GraphQL
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MzcxMTA3Ml19
+eyJoaXN0b3J5IjpbLTUwNTUzNzUyOF19
 -->

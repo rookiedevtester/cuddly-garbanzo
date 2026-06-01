@@ -43,12 +43,13 @@ Uniform Resource Identifier
 MVC
 
 
+
 Web publishing
 Posting contents onto the web.
 
 View
 Loose coupling
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NzY1NDI0OCwtNTcxNTkzNjkyLC0xMD
-k2NDQ1MDMzXX0=
+eyJoaXN0b3J5IjpbMTgxNTg0MjQ1NCwxMDg3NjU0MjQ4LC01Nz
+E1OTM2OTIsLTEwOTY0NDUwMzNdfQ==
 -->

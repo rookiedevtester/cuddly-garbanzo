@@ -12,7 +12,7 @@ Map
 A association between key and value elements, where key only appears once. It is also called dictionary as terms(key) are linked with definition(value).
 
 Stack
-A collections of item where the items are stacked in a way that those added last can be removed first, following the **LIFO (Last-In, First-Out)** principle.
+A collections of item where the items are stacked in a way that those added last can be removed first, following the **LIFO (Last-In, First-Out)** principle. The first item to get in also c
 
 Queue
 A collections of item where the items are arranged in a way that those added first can be removed last, following the **FIFO(First-In, First-Out)** principle.
@@ -22,7 +22,7 @@ A relation between elements, where
 
 Tree
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMjcxMTA1LDQyMDMyMTgyOSwxNDE3MD
+eyJoaXN0b3J5IjpbNTcxODc4MDE5LDQyMDMyMTgyOSwxNDE3MD
 M2MzM1LC0yMTA4Mjc1NzU5LDE4NzA4OTI1NzEsLTcwOTg5MDEz
 MCwxMTY0OTM4MzY4LDg3NTgzMzY4MSwtMjA2NDQxMTUwNl19
 -->

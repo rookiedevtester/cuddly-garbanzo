@@ -56,6 +56,8 @@ Web 3.0
 Web 4.0
 
 View
+The presentation layer of user interface.
+
 Loose coupling
 
 Stateful application
@@ -64,6 +66,6 @@ A software that store client data.
 Stateless application
 A software that does not store client data.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM2MzA4MzY0LDE0MzM5ODY4NDYsLTg3Mz
+eyJoaXN0b3J5IjpbNzQwNDM1OTE1LDE0MzM5ODY4NDYsLTg3Mz
 A4Njc2MCwtMTI4MDY5MDI2Nl19
 -->

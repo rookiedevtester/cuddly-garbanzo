@@ -70,9 +70,12 @@ A software that does not store client data.
 AJAX
 Updates the server without refreshing the page.
 
+SPA
+Single Page Application
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNzIxOTE0LC03MTE3NTU5NzIsMTcwMj
+eyJoaXN0b3J5IjpbNjU3NzM2NjczLC03MTE3NTU5NzIsMTcwMj
 U2MDE0OSwxNDMzOTg2ODQ2LC04NzMwODY3NjAsLTEyODA2OTAy
 NjZdfQ==
 -->

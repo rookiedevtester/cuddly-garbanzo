@@ -1,5 +1,5 @@
 Front End
-
+---
 HTML
 Hypertext Markup Language
 
@@ -23,12 +23,6 @@ Vue.js
 
 W3.js
 
-Node.js
-
-Express.js
-
-
-
 GraphQL
 
 AJAX
@@ -37,10 +31,18 @@ Bootstrap
 
 W3.CSS
 
+Back End
+---
+Express.js
+Node.js
+SQL
+Mongo
+
+
 npm
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MjIwMzYyNywtMTE3NzE4MjA0LC00Mz
-AzNzUyNzBdfQ==
+eyJoaXN0b3J5IjpbLTE4Njk1MDYxNzEsLTExNzcxODIwNCwtND
+MwMzc1MjcwXX0=
 -->

@@ -57,6 +57,10 @@ Web 4.0
 
 View
 Loose coupling
+
+Stateful application
+
+Stateless application
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODA2OTAyNjZdfQ==
+eyJoaXN0b3J5IjpbLTg3MzA4Njc2MCwtMTI4MDY5MDI2Nl19
 -->

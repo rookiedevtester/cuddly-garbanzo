@@ -36,13 +36,16 @@ Back End
 Express.js
 Node.js
 SQL
-Mongo
+MongoDB
+AWS
+Azure
+
 
 
 npm
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njk1MDYxNzEsLTExNzcxODIwNCwtND
-MwMzc1MjcwXX0=
+eyJoaXN0b3J5IjpbLTc4MTgwOTIwOSwtMTE3NzE4MjA0LC00Mz
+AzNzUyNzBdfQ==
 -->

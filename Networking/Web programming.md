@@ -1,8 +1,3 @@
-
-
-
-AJAX
-
 HTML
 Hypertext Markup Language
 
@@ -17,6 +12,16 @@ DOM
 JSON
 
 GraphQL
+
+AJAX
+
+Bootstrap
+
+W3.CSS
+
+npm
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NjE5MTUxOSwtNDMwMzc1MjcwXX0=
+eyJoaXN0b3J5IjpbMTIzNTI1NzQ5MywtNDMwMzc1MjcwXX0=
 -->

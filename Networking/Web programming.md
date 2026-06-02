@@ -11,6 +11,16 @@ DOM
 
 JSON
 
+jQuery
+
+AngularJS
+
+React
+
+Vue.js
+
+
+
 GraphQL
 
 AJAX
@@ -23,5 +33,5 @@ npm
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNTI1NzQ5MywtNDMwMzc1MjcwXX0=
+eyJoaXN0b3J5IjpbLTExNzcxODIwNCwtNDMwMzc1MjcwXX0=
 -->

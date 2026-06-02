@@ -67,8 +67,11 @@ A software that store client data.
 Stateless application
 A software that does not store client data.
 
+AJAX
+Updates the server without refreshing the page.
 
+<button>apple<button/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMjU2MDE0OSwxNDMzOTg2ODQ2LC04Nz
-MwODY3NjAsLTEyODA2OTAyNjZdfQ==
+eyJoaXN0b3J5IjpbLTI3MDk0NDEwOSwxNzAyNTYwMTQ5LDE0Mz
+M5ODY4NDYsLTg3MzA4Njc2MCwtMTI4MDY5MDI2Nl19
 -->

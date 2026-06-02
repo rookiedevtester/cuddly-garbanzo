@@ -59,10 +59,11 @@ View
 Loose coupling
 
 Stateful application
-A software that store data and keep tracking it.
+A software that store client data.
 
 Stateless application
+A software that does not store client data.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMzk4Njg0NiwtODczMDg2NzYwLC0xMj
-gwNjkwMjY2XX0=
+eyJoaXN0b3J5IjpbNDM2MzA4MzY0LDE0MzM5ODY4NDYsLTg3Mz
+A4Njc2MCwtMTI4MDY5MDI2Nl19
 -->

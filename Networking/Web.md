@@ -60,12 +60,15 @@ The presentation layer of user interface.
 
 Loose coupling
 
+
 Stateful application
 A software that store client data.
 
 Stateless application
 A software that does not store client data.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQwNDM1OTE1LDE0MzM5ODY4NDYsLTg3Mz
-A4Njc2MCwtMTI4MDY5MDI2Nl19
+eyJoaXN0b3J5IjpbMTcwMjU2MDE0OSwxNDMzOTg2ODQ2LC04Nz
+MwODY3NjAsLTEyODA2OTAyNjZdfQ==
 -->

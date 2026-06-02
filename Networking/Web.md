@@ -70,8 +70,8 @@ A software that does not store client data.
 AJAX
 Updates the server without refreshing the page.
 
-<button>apple<button/>
+<
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MDk0NDEwOSwxNzAyNTYwMTQ5LDE0Mz
-M5ODY4NDYsLTg3MzA4Njc2MCwtMTI4MDY5MDI2Nl19
+eyJoaXN0b3J5IjpbLTY0NDM3Njc4LDE3MDI1NjAxNDksMTQzMz
+k4Njg0NiwtODczMDg2NzYwLC0xMjgwNjkwMjY2XX0=
 -->

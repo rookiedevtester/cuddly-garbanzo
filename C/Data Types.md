@@ -1,12 +1,14 @@
 Integer Data Type
 
 `int`
-- d
+Memory occupancy: 2 bytes
+Range: −32,768 to 32,767
+
 
 `short`
 `long`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MTQ2NDEwMCwtMjA4ODc0NjYxMiwtOD
-A1MTYxNzYxXX0=
+eyJoaXN0b3J5IjpbLTE5OTM4OTY5NDksLTIwODg3NDY2MTIsLT
+gwNTE2MTc2MV19
 -->

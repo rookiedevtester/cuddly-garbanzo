@@ -1,7 +1,4 @@
-Basic Data Type
-Derived Data Type
-User-defined Data Type
-`void` Data Type <!---->
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNTE2MTc2MV19
+eyJoaXN0b3J5IjpbLTIwODg3NDY2MTIsLTgwNTE2MTc2MV19
 -->

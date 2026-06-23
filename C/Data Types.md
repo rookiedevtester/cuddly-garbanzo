@@ -1,19 +1,22 @@
 Integer Data Type
 
-`int`
-
-`short`
+**`int`**/**`short`**
 Memory occupancy: 2 bytes
-Range: −32,768 to 32,767
 Format specifier: `%d` or `%i`
 
-`long`
+**`long`**
 Memory occupancy: 2 bytes
-Range: −32,768 to 32,767
 Format specifier: `%d` or `%i`
+
+**`float`**
+Memory occupancy: bytes
+Format specifier: `%f`
+
+**`double`**
+Memory occupany: bytes
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMzE4NjI4MywtMTk5Mzg5Njk0OSwtMj
-A4ODc0NjYxMiwtODA1MTYxNzYxXX0=
+eyJoaXN0b3J5IjpbMjA3MTAzMzI1MCwxMjAzMTg2MjgzLC0xOT
+kzODk2OTQ5LC0yMDg4NzQ2NjEyLC04MDUxNjE3NjFdfQ==
 -->

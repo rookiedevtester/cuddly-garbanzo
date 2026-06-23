@@ -1,7 +1,10 @@
 Token
 Keyword
-Identifier
+Variable
 Constant
+Operator
+Special character
+
 
 
     //Preprocessor directives
@@ -22,5 +25,5 @@ Constant
     
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzY4NDgyNzVdfQ==
+eyJoaXN0b3J5IjpbLTI0MDc5MzgxMCwtMTk3Njg0ODI3NV19
 -->

@@ -4,7 +4,7 @@ Variable
 Constant
 Operator
 Special character
-
+String
 
 
     //Preprocessor directives
@@ -25,5 +25,5 @@ Special character
     
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MDc5MzgxMCwtMTk3Njg0ODI3NV19
+eyJoaXN0b3J5IjpbMjEzMDI4MzgwNSwtMTk3Njg0ODI3NV19
 -->
